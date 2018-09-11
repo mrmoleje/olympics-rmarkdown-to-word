@@ -1,5 +1,5 @@
 
-:cold_sweat: I need to bind all R Markdown repos into one with a description of each :cold_sweat:
+:construction_worker: :cold_sweat: I need to bind all R Markdown repos into one with a description of each :construction_worker:
 
 # Olympics R Markdown to word
 
