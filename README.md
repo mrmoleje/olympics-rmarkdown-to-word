@@ -1,7 +1,7 @@
 
 
 
-# Olympics Rmarkdown to word
+# Olympics R Markdown to word
 
 Using data from the Olympics this repo gives an example of how to create a simple word document using R Markdown.
 
