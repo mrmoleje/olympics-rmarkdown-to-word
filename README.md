@@ -27,4 +27,4 @@ libraries (c("tidyverse", "rmarkdown", "readr", "tidyr"))
 
 ### Data
 
-Data for thsi example was downloaded from ['Kaggle'] (https://www.kaggle.com/ahmetuzgor/my-first-data-analysis-with-athletes-data/data)
+Data for thsi example was downloaded from ['Kaggle'](https://www.kaggle.com/ahmetuzgor/my-first-data-analysis-with-athletes-data/data)
