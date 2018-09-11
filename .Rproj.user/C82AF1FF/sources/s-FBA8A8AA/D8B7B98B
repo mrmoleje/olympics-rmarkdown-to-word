@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536666244126.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D8B7B98B",
+    "lastKnownWriteTime" : 1536667320,
+    "last_content_update" : 1536667320976,
+    "path" : "~/Documents/R_Projects/olympics_report/olympic_report.Rmd",
+    "project_path" : "olympic_report.Rmd",
+    "properties" : {
+        "cursorPosition" : "140,161",
+        "scrollLine" : "130",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

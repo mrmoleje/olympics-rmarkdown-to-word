@@ -1,0 +1,7 @@
+"0","library(readr) #reading in data and writing out data
+library(dplyr) #data wrangle
+"
+"2","package ‘dplyr’ was built under R version 3.5.1"
+"0","library(tidyverse) #learn more about the philosophy of tidy verse here"
+"0","#https://www.tidyverse.org/"
+"0","library(tidyr) #cleaning a data set"

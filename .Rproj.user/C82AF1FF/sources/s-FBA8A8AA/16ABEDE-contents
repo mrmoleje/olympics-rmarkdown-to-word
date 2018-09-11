@@ -1,0 +1,14 @@
+library(shiny)
+library(ggplot2)
+
+
+ui <- fluidPage(
+  h3("Car Relationships"),
+  selectInput("x", "x var", c("", colnames(mtcars))), selectInput("y", "y var", c("", colnames(mtcars))), plotOutput("scatter")
+)
+
+server <- function(input, output) {
+  output$scatter <- renderPlot({
+    ggplot(mtcars, aes_string(x = input$x, y = input$y)) + geom_point() + geom_smooth()
+  }) }
+shinyApp(ui, server)

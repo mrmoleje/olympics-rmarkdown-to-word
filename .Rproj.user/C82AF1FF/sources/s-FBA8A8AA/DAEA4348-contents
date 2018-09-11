@@ -1,0 +1,30 @@
+massacre_name,ID,date,latitude,longitude,web,native_casualties,colonialist_casualties,Tribe_name
+Napituca Massacre,1,1539,30.150002,-83.968428,http://www.floridahistory.com/inset6.html,200,0,Timucuan
+Mabila Massacre,2,1540,32.380817,-87.068144,https://en.wikipedia.org/wiki/Mabila,2500,0,Choctaw
+Tiguex Massacres,3,1541,35.309444,-106.551944,https://en.wikipedia.org/wiki/Tiguex_War,250,0,Tiwa
+Acoma Massacre,4,1559,34.896,-107.582,https://en.wikipedia.org/wiki/Acoma_Massacre,300,0,Pueblo
+Sandia Mountains,5,1601,35.208889,-106.446944,https://en.wikipedia.org/wiki/Sandia_Mountains,900,0,Tompiro
+Paspahegh Massacre,6,1610,37.31,-76.77,https://en.wikipedia.org/wiki/Paspahegh,65,0,Paspahegh
+Jamestown Massacre,7,1622,37.209167,-76.7775,https://www.encyclopedia.com/defense/energy-government-and-defense-https://en.wikipedia.org/wiki/Indian_massacre_of_1622,0,347,Powhatan
+Wessagusset affair,8,1623,42.220833,-70.940278,https://en.wikipedia.org/wiki/Wessagusset_Colony,4,0,Massachusett
+Pamunkey Peace Talks,9,1623,37.649695,-77.10862,https://en.wikipedia.org/wiki/Pamunkey,250,0,Pamunkey
+Wethersfield Attack,10,1637,41.4251,-72.3909,https://www.ferrisfamily.us/the-wethersfield-massacre/,30,0,Pequot
+Mystic Massacre,11,1637,41.734,-72.6714,https://en.wikipedia.org/wiki/Mystic_massacre,700,0,Pequot
+Pound Ridge Massacre,12,1644,41.208611,-73.574722,https://en.wikipedia.org/wiki/Pound_Ridge_massacre,700,0,Wappinger
+Pavonia Massacre,13,1643,40.717679,-74.0046,"https://en.wikipedia.org/wiki/Pavonia,_New_Netherland",129,0,Lenape
+Hutchinson Massacre,14,1643,40.861247,-73.836473,https://en.wikipedia.org/wiki/Anne_Hutchinson,15,1,Siwanoy
+Massapequa Massacre,15,1644,40.670403,-73.47115,"https://en.wikipedia.org/wiki/Massapequa,_New_York",100,0,Pequot
+Pound Ridge Massacre,16,1644,41.1213,-73.3429,https://en.wikipedia.org/wiki/Pound_Ridge_massacre,500,0,Wappinger
+Peach Tree War,17,1655,40.7237,-74.0424,https://en.wikipedia.org/wiki/Peach_Tree_War,0,0,Susquehannock 
+Susquehannock Massacre,18,1675,38.82196,-77.420825,https://en.wikipedia.org/wiki/Paxton_Boys,14,0,Susquehannock 
+Swansea Massacre,19,1675,41.4453,-71.1125,https://indiangivers.wordpress.com/2012/06/24/today-in-history-the-swansea-massacre/,7,0,Pokanoket
+Great Swamp Massacre,20,1675,41.2651,-71.3138,https://en.wikipedia.org/wiki/Great_Swamp_Fight,300,0,Narragansett
+Nine Men's Misery,21,1676,41.58,-71.2558,https://en.wikipedia.org/wiki/Nine_Men%27s_Misery,9,0,Wampanoag
+Massacre at Occoneechee Island,22,1676,36.372,-78.3344,https://en.wikipedia.org/wiki/Occaneechi,400,0,Occaneechi
+Turner Falls Massacre,23,1676,42.3556,-72.3325,https://en.wikipedia.org/wiki/Battle_of_Turner%27s_Falls,100,0,Pocomtuck
+Rhode Island,24,1675,41.7,-71.5,https://en.wikipedia.org/wiki/Great_Swamp_Fight,126,0,Narragansett
+Pueblo Revolt,25,1680,35.4,-105.579,https://en.wikipedia.org/wiki/Pueblo_Revolt,0,380,Pueblo
+Lachine massacre,26,1689,45.431667,-73.675,https://en.wikipedia.org/wiki/Lachine_massacre,0,90,Mohawk
+Zia Pueblo,27,1689,35.503611,-106.72,https://en.wikipedia.org/wiki/List_of_Indian_massacres#cite_note-44,600,0,Unknown
+Schenectady Massacre,28,1690,42.8188,-73.9,https://en.wikipedia.org/wiki/Schenectady_massacre,0,60,Mohawk
+Raid on York,29,1692,43.143889,-70.65,https://en.wikipedia.org/wiki/Raid_on_York_(1692),0,100,Penobscot

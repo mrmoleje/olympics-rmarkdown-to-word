@@ -1,0 +1,22 @@
+ui <- fluidPage(
+  sliderInput("n", "Number of samples", min = 25, max = 500, step =
+                25, value = 100),
+  radioButtons("dist", "Distribution type:",
+               c("Normal" = "norm",
+                 "Uniform" = "unif",
+                 "Exponential" = "exp")),
+  actionButton("go", "Go"),
+  plotOutput("distPlot")
+)
+server <- function(input, output) { getDistData <- eventReactive(input$go, {
+  dist <- switch(input$dist,
+                 norm = rnorm,
+                 unif = runif,
+                 exp = rexp,
+                 rnorm)
+  dist(input$n)
+})
+output$distPlot <- renderPlot({
+  hist(getDistData())
+})
+}
